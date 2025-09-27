@@ -7,6 +7,8 @@ package com.equipo1.excepciones;
  * 
  *  Esta clase de excepcion sera implementada en las clases que implementan
  *  la interfaz IList
+ * 
+ * Prueba git
  */
 public class ListException extends RuntimeException {
     
